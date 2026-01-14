@@ -9,7 +9,7 @@ TBD
 * [Тула - Калуга 2026](Tula_Kaluga_2026/README.md)
 
 2025
-* [Нижний Новгород](Nizhniy Novgorod/ReadMe.md)
+* [Нижний Новгород](Nizhniy_Novgorod/ReadMe.md)
 
 * [Владимир]()
 * [Суздаль]()
